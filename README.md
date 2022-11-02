@@ -2,7 +2,7 @@
 Can interact with Nest Thermostat and Hue Lights
 <h2>heattolight.py</h2>
 <p>This simple program uses 'thermostat.py' to probe an attached Nest thermostat. It then uses 'remotehue.py' to set a light to blue if the heating is off or red if heating is on.</p>
-<p>This shows simple ways to interact with Next and Hue home kit using python and it uses oAuth2 to grant access to the Nest and Hue kit via the web.</p>
+<p>This shows simple ways to interact with Nest and Hue home kit using python and it uses oAuth2 to grant access to the Nest and Hue kit via the web.</p>
 
 <h2>Remotehue.py</h2>
 <p>Use this to control hue colour lamps</p>
