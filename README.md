@@ -6,8 +6,8 @@ This program interacts with a Nest Thermostat and Hue Lights. It shows simple wa
 
 ### Structure
 
-* _thermostat.py_ probes an attached Nest thermostat
 * _remotehue.py_ sets a light to blue if the heating is off, or red if heating is on
+* _thermostat.py_ probes an attached Nest thermostat
 
 ## remotehue.py
 
